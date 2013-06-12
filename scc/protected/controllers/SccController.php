@@ -1,6 +1,6 @@
 <?php
 
-class SscController extends Controller {
+class SccController extends Controller {
 
     public $layout = '//layouts/scc_front/column1';
 
